@@ -1,3 +1,5 @@
+## ファイアーウォール設定のIPアドレス
+#  curl ifconfig.me
 # uvicorn backend.main_extended:app --reload
 
 from fastapi import FastAPI, HTTPException
